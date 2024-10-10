@@ -1,7 +1,7 @@
 
 # Hi there :wave:
 
-I'm ZHtwinkle, a :cn: Student / :penguin: Ubuntu Enthusiast.
+I'm ZHtwinkle, a :🇨🇳: Student / :penguin: Ubuntu Enthusiast.
 
 <img  src="https://github-readme-stats-nine-black-27.vercel.app/api?username=ZHtwinkle&theme=onedark&show_icons=true" alt="ZHtwinkle's Stats" align="right"/>
 

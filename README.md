@@ -12,8 +12,6 @@ I'm ZHtwinkle, a :cn: Student / :penguin: Ubuntu Enthusiast.
 ### :seedling: I'm currently learning
 
 1. Pattern Recognition
-2. ML
-3. DL
 
 ### :mailbox: How to Reach me
 

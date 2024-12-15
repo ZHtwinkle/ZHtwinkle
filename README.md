@@ -6,7 +6,7 @@ I'm ZHtwinkle, a Student / Ubuntu Enthusiast.
 
 ### :telescope: I’m currently working on
 
-1. Develop my own website [blog.zhtwinkle.cn](https://blog.zhtwinkle.cn).
+1. Write something on my own blog website [blog.zhtwinkle.cn](https://blog.zhtwinkle.cn).
 
 ### :seedling: I'm currently learning
 
